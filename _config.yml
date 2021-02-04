@@ -8,8 +8,8 @@ subtitle: '力攀云玩之巔'
 description: ''
 keywords:
 author: Ocram ノナメ
-language: zh-tw
-timezone: ''
+language: en
+timezone: 'UTC'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
@@ -103,4 +103,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/Te-chen/te-chen.github.io.git
+  branch: gh-pages
