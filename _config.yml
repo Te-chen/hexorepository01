@@ -13,7 +13,7 @@ timezone: 'UTC'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://te-chen.github.io/ocram.github.io
+url: https://te-chen.github.io/ocram.github.io/
 root: /ocram.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
