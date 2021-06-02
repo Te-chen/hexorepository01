@@ -19,7 +19,7 @@ tags:
 
 ## 安裝必備軟體
 
-* **[git](https://git-scm.com/download/win)**
+* **[git](https://git-scm.com/download/win)**<!-- more -->
 
 ![setupgit](https://cdn.jsdelivr.net/gh/Te-chen/figurebed01/20210321110145.png)
 
@@ -29,7 +29,7 @@ tags:
 
 ## 部署Hexo博客系统
 
-一旦所有的必備軟體都安裝完畢後，即可透過 npm 安裝 Hexo：<!-- more -->
+一旦所有的必備軟體都安裝完畢後，即可透過 npm 安裝 Hexo：
 
 * 在安裝位置呼出右鍵菜單(Shift+F10)
 

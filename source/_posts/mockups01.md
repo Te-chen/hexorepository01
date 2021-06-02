@@ -10,7 +10,11 @@ tags:
 <blockquote class="wp-block-quote"><p>Hold your breath...</p><cite>Mock Magic</cite></blockquote>
 <h2><a rel="noreferrer noopener" href="https://mockmagic.com/" target="_blank">Mock Magic</a></h2>
 <p>Your can find the Apple Watch there...<br>But the size of your uploaded images can't be set.</p>
+
+<!-- more -->
+
 <img src="https://cdn.jsdelivr.net/gh/Te-chen/figurebed01/20210405104044.png"/>
+
 <p><center>Huawei P8</center></p>
 <h2><a rel="noreferrer noopener" href="https://magicmockups.com/" target="_blank">Magic Mockups</a></h2>
 <p>Images are based on real photos.</p>
@@ -18,9 +22,6 @@ tags:
 
 <p><center>Free Apple MacBook Pro and iPhone mockup
 </center></p>
-
-<!-- more -->
-
 <h2><a rel="noreferrer noopener" href="https://dimmy.club/" target="_blank">Dimmy.club</a></h2>
 <p>You can find the Nokia 220 there...</p>
 <img src="https://cdn.jsdelivr.net/gh/Te-chen/figurebed01/20210405105548.png"/>
